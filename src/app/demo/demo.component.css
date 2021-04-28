@@ -1,0 +1,16 @@
+.flex-container-demo, .direction-demo, .demo-justify-border, .demo-wrap, .align-items-demo, .align-self-demo {
+    border:1px solid #ccc;
+}
+.demo-1{
+    text-align: center;
+    border:1px solid #000;
+    padding: 0.5rem;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+.demo-wrap, .align-self-demo{
+    width: 250px;
+}
+.demo-justify-border{
+    width: 500px;
+}
